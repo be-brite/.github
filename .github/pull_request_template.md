@@ -9,7 +9,7 @@
 
 ## Related issues
 
-> Fix [#1]()
+> #
 
 ## Checklists
 
